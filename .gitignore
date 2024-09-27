@@ -184,4 +184,5 @@ cython_debug/
 *.json
 *.command
 *\copilot-chat
+*\Release
 
